@@ -33,6 +33,6 @@ public class Buble {
 
         }
         System.out.println(Arrays.toString(array));
-        System.out.println("git TEST");
+        System.out.println("git TEST_1");
     }
 }
